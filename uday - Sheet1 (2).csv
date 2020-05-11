@@ -1,0 +1,9 @@
+match count,number of fours,number of sixes,win/lose
+1,8,2,W
+2,6,3,W
+3,7,5,W
+4,3,6,L
+5,8,2,W
+6,4,5,L
+7,6,3,W
+8,2,7,L
